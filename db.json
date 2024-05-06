@@ -1,11 +1,18 @@
 {
   "customers": [
     {
-      "name": "John NEW!",
-      "email": "mail2@mail.com",
-      "phone": "12",
-      "company": "12212",
-      "id": 26
+      "id": "b89d",
+      "name": "Arturo Salgado",
+      "email": "usasalgado@gmail.com",
+      "phone": "3237993259",
+      "company": "CompanyCo"
+    },
+    {
+      "id": "e1b4",
+      "name": "Arturo Salgado",
+      "email": "usasalgado@gmail.com",
+      "phone": "3237993259",
+      "company": "Tets"
     }
   ]
 }
